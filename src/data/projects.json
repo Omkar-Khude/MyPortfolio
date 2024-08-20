@@ -5,21 +5,18 @@
       "title": "Ecommerce Website",
       "description": "This is a e-commerce website that enables users to browse, purchase, and manage products through a seamless online shopping experience.",
       "skills": ["HTML", "CSS","React", "Express", "Node", "MongoDB"],
-      "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
       "title": "NotesApp",
       "description": "This is notes-storing app where users manage their personal notes efficiently and ensuring information is easily retrievable and well-organized.",
       "skills": ["HTML", "CSS","React", "Express", "Node", "MongoDB"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Omkar-Khude/NotesApp"
     },
     {
       "title": "Insight News",
       "description": "This is a news website provides up-to-date information on current events  including politics, economy, sports, and entertainment, with articles, and images.",
       "skills": ["HTML", "CSS","React"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Omkar-Khude/InsightNews"
     }
   ]
